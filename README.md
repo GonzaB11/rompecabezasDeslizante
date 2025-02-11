@@ -16,10 +16,12 @@ This project is a puzzle game that offers two game modes: a number-based mode an
 - **Challenging Gameplay**: Arrange numbers or image pieces correctly to solve the puzzle.
 - **User-Friendly Interface**: Built with Java Swing using Windows Builder (JFrame).
 - **Separated Presentation Design**: Implements a structured approach by separating business logic from the UI.
+- **Automated Testing**: Uses JUnit for testing to ensure system reliability.
 
 ## Technologies Used
 - **Java**: Core programming language for game logic.
 - **Windows Builder (JFrame)**: UI design for an interactive experience.
+- **JUnit**: Framework for writing and running automated tests.
 
 ## Installation & Usage
 1. Clone the repository:
